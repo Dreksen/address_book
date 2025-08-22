@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/address_book.dir/link.d CMakeFiles/address_book.dir/main.cpp.o CMakeFiles/address_book.dir/database.cpp.o -o address_book  /usr/lib64/libsqlite3.so
